@@ -1,0 +1,15 @@
+h2 {
+  font: 50px normal bold 'Lucida Grande';
+}
+
+#story {
+  font: 25px 'Lucida Grande';
+}
+
+.last {
+  color: red;
+}
+
+.wait {
+  border: 2px solid red;
+}

@@ -1,0 +1,9 @@
+{
+  "firebase": "storybuilder",
+  "public": ".",
+  "ignore": [
+    "firebase.json",
+    "**/.*",
+    "**/node_modules/**"
+  ]
+}
